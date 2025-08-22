@@ -23,10 +23,10 @@ import React, { useEffect, useMemo, useState } from "react";
 
 /*********************  USER CONFIG  *********************/
 const LEAGUE_IDS: string[] = [
-  // "123456789012345678", // League 1
-  // "234567890123456789", // League 2
-  // "345678901234567890", // League 3
-  // "456789012345678901", // League 4
+  // "1264083534415396864", // League 1
+  // "1264093436445741056", // League 2
+  // "1264093787064377344", // League 3
+  // "1264094054845513728", // League 4
 ];
 
 // Position value multipliers used in draft grades and matchup strength
